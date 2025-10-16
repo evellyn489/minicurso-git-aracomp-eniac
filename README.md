@@ -20,14 +20,14 @@ Siga estas instruções com atenção. Os comandos que você precisa digitar no 
 * Clique no botão verde "<> Code" e copie a URL HTTPS.
 * No seu terminal, execute o comando abaixo, substituindo a URL pela que você copiou:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/minicurso-git.git](https://github.com/SEU_USUARIO/minicurso-git.git)
+    git clone [URL]
     ```
 
 **3. Entre na Pasta do Projeto**
 
 * Após clonar, você precisa navegar para dentro do diretório que foi criado.
     ```bash
-    cd minicurso-git
+    cd minicurso-git-aracomp-eniac
     ```
 
 **4. Crie uma Nova Branch**
