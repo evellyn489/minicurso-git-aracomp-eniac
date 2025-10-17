@@ -30,6 +30,8 @@ Siga estas instruções com atenção. Os comandos que você precisa digitar no 
     cd minicurso-git-aracomp-eniac
     ```
 
+**Atenção: Após isso, dê Ctrl + clique no diretório no terminal para abrir o projeto no VS Code.**
+
 **4. Crie uma Nova Branch**
 
 * Crie uma "ramificação" para trabalhar de forma isolada. Use seu nome ou um apelido para nomear a branch.
