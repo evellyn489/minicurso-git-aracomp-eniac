@@ -59,6 +59,7 @@ Siga estas instruções com atenção. Os comandos que você precisa digitar no 
         ```bash
         git commit -m "Adiciona arquivo de Evellyn"
         ```
+**Atenção: lembre-se de fazer login na sua conta do git. Você pode fazer isso no terminal com o comando `git config user.email "seuemail@email.com"` e `git config user.name "seu nome"`**
 
 **7. Envie sua Branch para o GitHub**
 
