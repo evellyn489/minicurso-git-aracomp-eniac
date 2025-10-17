@@ -1,0 +1,1 @@
+print('Olá, Mundo! Meu nome é Artur Barbosa.')
